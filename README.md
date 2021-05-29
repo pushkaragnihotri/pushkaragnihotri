@@ -1,6 +1,6 @@
-[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushkaragnihotri/)
-[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/pushhkarr)
-[![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
+[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushkaragnihotri/)
+[![twitter badge](https://img.shields.io/badge/@pushhkarr-30302f?style=flat&logo=twitter)](https://twitter.com/pushhkarr)
+[![medium badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
 
 ### Hi there 👋
 
