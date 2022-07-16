@@ -1,27 +1,30 @@
+## Hi there 👋🏽
 
-[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushkaragnihotri/)
-[![twitter badge](https://img.shields.io/badge/@puxhkar-30302f?style=flat&logo=twitter)](https://twitter.com/puxhkar)
-[![medium badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
+🖥 *I'm a Software Engineer Professional with 3+ years of Web, Chatbots & API development experience, working for startups. <br>
+⚡ I like to code for fun in **JavaScript & Golang**. <br>
+🤌🏽 Over the years, I've acquired a particular set of skills that are a nightmare for bugs. They allow me to plan/deliver reliable scalable software & manage dev teams.*
 
-### Hi there 👋
+## Tools & Technologies I have worked with : 
 
-🖥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘪𝘵𝘩 3 𝘺𝘦𝘢𝘳𝘴 𝘰𝘧 𝘞𝘦𝘣, 𝘊𝘩𝘢𝘵𝘣𝘰𝘵 & 𝘈𝘗𝘐 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘪𝘯 𝘴𝘵𝘢𝘳𝘵𝘶𝘱𝘴.
-⚡ 𝘚𝘬𝘪𝘭𝘭𝘦𝘥 𝘪𝘯 𝘎𝘰𝘭𝘢𝘯𝘨, 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵, 𝘗𝘺𝘵𝘩𝘰𝘯 𝘢𝘯𝘥 𝘵𝘩𝘦𝘪𝘳 𝘳𝘦𝘴𝘱𝘦𝘤𝘵𝘪𝘷𝘦 𝘭𝘪𝘣𝘳𝘢𝘳𝘪𝘦𝘴 𝘢𝘯𝘥 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴; 𝘱𝘰𝘴𝘴𝘦𝘴𝘴 𝘢𝘯 𝘦𝘹𝘤𝘭𝘶𝘴𝘪𝘷𝘦 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥𝘪𝘯𝘨 𝘰𝘧 𝘖𝘖𝘗 𝘤𝘰𝘯𝘤𝘦𝘱𝘵𝘴; 𝘢𝘯𝘥 𝘙𝘋𝘉𝘔𝘚 𝘢𝘴 𝘸𝘦𝘭𝘭 𝘢𝘴 𝘕𝘰𝘚𝘘𝘓 𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴.
-  
-I code for FUN in :
-| Golang | JavaScript | Python |
- | :---: | :---: | :---: |
-
-### Technologies & Frameworks I have worked with : 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### My GitHub Stats : 
 
@@ -42,7 +45,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### My Cover 👉🏽
+
 - 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning advanced concepts in Golang and Node.js
 - 👯 I’m looking to collaborate on Projects and Hackathons
@@ -53,4 +57,10 @@ Here are some ideas to get you started:
   
 - 💬 Happy to help anytime!
 
-## :rainbow: Have a good day!
+## Contact Me 🤙🏽
+
+[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushkaragnihotri/)
+[![twitter badge](https://img.shields.io/badge/@puxhkar-30302f?style=flat&logo=twitter)](https://twitter.com/puxhkar)
+[![medium badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
+
+### :rainbow: Have a good day!
