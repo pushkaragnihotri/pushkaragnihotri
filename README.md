@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 
 ### My Cover 👉🏽
 
-🔭 I’m currently working on Golang
-🌱 I’m currently learning advanced concepts in Golang and Node.js
-👯 I’m looking to collaborate on Projects and Hackathons
-🤔 I’m looking for help with Open Source
-💬 Ask me about anything.
-📫 How to reach me: Linkedin - @pushkaragnihotri
-⚡ Fun fact: I am jack of all trades and not limited to just what descibed above.
+🔭 I’m currently working on Golang <br>
+🌱 I’m currently learning advanced concepts in Golang and Node.js <br>
+👯 I’m looking to collaborate on Projects and Hackathons. <br>
+🤔 I’m looking for help with Open Source. <br>
+💬 Ask me about anything. <br>
+📫 How to reach me: Linkedin - @pushkaragnihotri <br>
+⚡ Fun fact: I am jack of all trades and not limited to just what descibed above. <br>
   
 - 💬 Happy to help anytime!
 
