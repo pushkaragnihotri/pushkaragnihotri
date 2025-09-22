@@ -47,21 +47,19 @@ Here are some ideas to get you started:
 
 ### My Cover 👉🏽
 
-🔭 I’m currently working on Node.js & Python <br>
-🔙 I have previously worked on Golang <br>
-🌱 I’m currently learning Data Structures & System Design <br>
+🔭 I’m currently working on Node.js & Python. <br>
+🔙 I have previously worked on Golang. <br>
+🌱 I’m currently learning Data Structures & System Design. <br>
 👯 I’m looking to collaborate on Projects and Hackathons. <br>
 🤔 I’m looking for help with Open Source. <br>
 💬 Ask me about anything. <br>
-📫 How to reach me: LinkedIn - @puxhkar <br>
 ⚡ Fun fact: I am a jack of all trades and not limited to just what is described above. <br>
-  
-- 💬 Happy to help anytime!
+💬 Happy to help anytime!
 
 ## Contact Me 🤙🏽
 
-[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/puxhkar/)
-[![twitter badge](https://img.shields.io/badge/@puxhkar-30302f?style=flat&logo=twitter)](https://twitter.com/puxhkar)
-[![medium badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
+[![LinkedIn Badge](https://img.shields.io/badge/Pushkar-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/puxhkar)
+[![Twitter Badge](https://img.shields.io/badge/@pushkar-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/puxhkar)
+[![Medium Badge](https://img.shields.io/badge/Pushkar-Medium-black?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
 
 ### :rainbow: Have a good day!
