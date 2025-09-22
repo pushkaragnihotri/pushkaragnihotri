@@ -1,8 +1,8 @@
 ## Hi there 👋🏽
 
-🖥 *I'm a Software Engineer Professional with 3+ years of Web, Chatbots & API development experience, working for startups. <br>
-⚡ I like to code for fun in **JavaScript & Golang**. <br>
-🤌🏽 Over the years, I've acquired a particular set of skills that are a nightmare for bugs. They allow me to plan/deliver reliable scalable software & manage dev teams.*
+🖥 *I'm a Software Engineer Professional with 6+ years of Web, Chatbots & API development experience, working for startups. <br>
+⚡ I like to code for fun in **JavaScript, Python & Golang**. <br>
+🤌🏽 Over the years, I've acquired a particular set of skills that are a nightmare for bugs. They allow me to plan/deliver reliable, scalable software & manage dev teams.*
 
 ## Tools & Technologies I have worked with : 
 
@@ -47,19 +47,20 @@ Here are some ideas to get you started:
 
 ### My Cover 👉🏽
 
-🔭 I’m currently working on Golang <br>
-🌱 I’m currently learning advanced concepts in Golang and Node.js <br>
+🔭 I’m currently working on Node.js & Python <br>
+🔙 I have previously worked on Golang <br>
+🌱 I’m currently learning Data Structures & System Design <br>
 👯 I’m looking to collaborate on Projects and Hackathons. <br>
 🤔 I’m looking for help with Open Source. <br>
 💬 Ask me about anything. <br>
-📫 How to reach me: Linkedin - @pushkaragnihotri <br>
-⚡ Fun fact: I am jack of all trades and not limited to just what descibed above. <br>
+📫 How to reach me: LinkedIn - @puxhkar <br>
+⚡ Fun fact: I am a jack of all trades and not limited to just what is described above. <br>
   
 - 💬 Happy to help anytime!
 
 ## Contact Me 🤙🏽
 
-[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushkaragnihotri/)
+[![linkedin badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/puxhkar/)
 [![twitter badge](https://img.shields.io/badge/@puxhkar-30302f?style=flat&logo=twitter)](https://twitter.com/puxhkar)
 [![medium badge](https://img.shields.io/badge/Pushkar_Agnihotri-30302f?style=flat&logo=medium)](https://medium.com/@pushkaragnihotri)
 
